@@ -1,39 +1,33 @@
 ---
 permalink: /
-title: "Academic personal website of Xinyi Yan"
+title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am currently a PHD student in Management Science and Engineering with a strong interest in the field of Natural Language Processing. I worked towards my bachelor's degree in Information management and information system at Hohai University from 2017 to 2021. 
+I am a PhD candidate in Management Science and Engineering at Nanjing University of Science and Technology, with an expected graduation date in 2027. My research focuses on natural language processing and information retrieval, particularly academic document understanding and automatic keyphrase extraction. From December 2024 to December 2025, I undertook a joint doctoral research visit at the Information School, University of Sheffield.
 
-Research Domain
+Research interests
 ======
-Currently, my research focus on natural language processing and information retrieval, specifically delving into the realm of key Information extraction based on multimodal information. 
-- Natural language processing (NLP)
-- Text processing
-- Information retrieval
-- Keyphrase Exrtraction
-- Cognitive based NLP
 
-Research Experience
+- Academic long-document understanding and discourse structure
+- Automatic keyphrase extraction and scientific text mining
+- Large language models for scholarly information processing
+- Cognition-informed NLP using eye-tracking and EEG signals
+
+Selected work
 ======
-2024.03 - [**Utilizing cognitive signals generated during human reading to enhance keyphrase extraction from microblogs**](https://www.sciencedirect.com/science/article/abs/pii/S0306457323003515), has been accepted for publication in the journal Information Processing & Management.
 
-Additionally, I am in the process of submitting an article that explores the enhancement of keyphrase extraction performance through the utilization of section structure information.
+- [Enhancing keyphrase extraction from academic articles using section structure information](https://doi.org/10.1007/s11192-025-05286-2), *Scientometrics*, 2025.
+- [Utilizing cognitive signals generated during human reading to enhance keyphrase extraction from microblogs](https://doi.org/10.1016/j.ipm.2023.103614), *Information Processing & Management*, 2024.
+- [Building a Multimodal Dataset of Academic Paper for Keyword Extraction](https://doi.org/10.1002/pra2.1040), *Proceedings of the Association for Information Science and Technology*, 2024.
+- [Enhancing Keyword Extraction from Academic Articles Using Highlights](https://doi.org/10.1002/pra2.1213), *Proceedings of the Association for Information Science and Technology*, 2024.
 
-Education Background
+Education
 ======
-**2017.09~2021.06** Hohai University, Bachelor of Information management & Information system
-Computer related courses: Computer Science, JAVA, C Language, R Language, Web Design etc.
-GPA: 4.75, Ranked: 5/72
 
-**2021.09~2022.09** Nanjing University of Science and Technology, Successive postgraduate and doctoral programs of Management science and engineering
-Research fields: Text Information Processing, Keyphrase Extraction
-Computer related courses: Machine learning, Deep learning, Natural Language Processing etc.
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- **2021-present:** PhD candidate, Management Science and Engineering, Nanjing University of Science and Technology
+- **2024-2025:** Joint doctoral research visit, Information School, University of Sheffield
+- **2017-2021:** BSc, Information Management and Information Systems, Hohai University
